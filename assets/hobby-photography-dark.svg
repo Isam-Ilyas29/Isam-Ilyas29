@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="136" viewBox="0 0 160 136" fill="none" role="img" aria-labelledby="title">
+<title id="title">Film photography</title>
+
+<rect x=".75" y=".75" width="158.5" height="134.5" rx="12" fill="#0d1117" stroke="#293340" stroke-width="1.5"/>
+<path d="M14 25V15h10m112 0h10v10" stroke="#334250" stroke-width="1" stroke-linecap="round"/>
+<circle cx="80" cy="53" r="32" fill="#1b2a1e"/>
+<g transform="translate(57 32) scale(.83)"><g stroke="#a7f36b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 15h10l4-7h15l4 7h9a5 5 0 0 1 5 5v23a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V20a5 5 0 0 1 5-5Z"/>
+<circle cx="29" cy="31" r="11"/><circle cx="29" cy="31" r="6"/>
+<path d="M8 22h6m28-1h5M7 10h9"/><circle cx="45" cy="23" r=".9"/></g></g>
+<text x="80" y="113" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#f0f6fc">Film photography</text>
+</svg>

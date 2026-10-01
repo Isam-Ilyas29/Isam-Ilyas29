@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="136" viewBox="0 0 160 136" fill="none" role="img" aria-labelledby="title">
+<title id="title">Scuba diving</title>
+
+<rect x=".75" y=".75" width="158.5" height="134.5" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<path d="M14 25V15h10m112 0h10v10" stroke="#bac8d2" stroke-width="1" stroke-linecap="round"/>
+<circle cx="80" cy="53" r="32" fill="#eaf3e8"/>
+<g transform="translate(57 32) scale(.83)"><g stroke="#327b29" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 23V14a7 7 0 0 1 7-7h19a7 7 0 0 1 7 7v9M8 16H4v7h4m33-7h4v7h-4"/>
+<path d="M11 12h27v11a5 5 0 0 1-5 5h-5l-3.5-4-3.5 4h-5a5 5 0 0 1-5-5Z"/>
+<path d="M30 36h7a11 11 0 0 0 11-11V6h6V2m-34 29v8a6 6 0 0 0 6 6h3v-9h-9"/>
+<path d="m16 15 5 0"/><circle cx="55" cy="23" r="2"/><circle cx="56" cy="35" r="3"/></g></g>
+<text x="80" y="113" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#17222e">Scuba diving</text>
+</svg>

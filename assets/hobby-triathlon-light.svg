@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="136" viewBox="0 0 160 136" fill="none" role="img" aria-labelledby="title">
+<title id="title">Triathlon</title>
+
+<rect x=".75" y=".75" width="158.5" height="134.5" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<path d="M14 25V15h10m112 0h10v10" stroke="#bac8d2" stroke-width="1" stroke-linecap="round"/>
+<circle cx="80" cy="53" r="32" fill="#eaf3e8"/>
+<g transform="translate(57 32) scale(.83)"><g stroke="#327b29" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="31" r="8"/><circle cx="43" cy="31" r="8"/>
+<path d="m12 31 9-17h11l11 17H12l15-11 9 11m-4-17-3-6h-5m5 0h8M20 14l-3-5h-5"/>
+<path d="M3 49c3.3-3 6.6-3 10 0s6.7 3 10 0 6.7-3 10 0 6.7 3 10 0 6.7-3 10 0"/>
+<path d="m35 3 5 4 5-1m-5 1-2 7"/></g></g>
+<text x="80" y="113" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#17222e">Triathlon</text>
+</svg>
